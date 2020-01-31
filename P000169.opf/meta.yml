@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཚིག་འགྲེལ་འཇམ་དབྱངས་བླ་མའི་ཞལ་ལུང་བདུད་རྩིའི་ཐིག་པ་བཞུགས་སོ།།
+    །།
+  authors:
+  - མཛད་པ་པོ། མཁན་པོ་ཀུན་དཔལ།
+  sku: LEK-PHI-126
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: The Nectar of Manjushri’s Speech:A Commentary to the Bodhisatvacharyavatara
+    bo: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཚིག་འགྲེལ་འཇམ་དབྱངས་བླ་མའི་ཞལ་ལུང་བདུད་རྩིའི་ཐིག་པ་བཞུགས་སོ།།
+  collection:
+    en: Lekshey Ling Philosophy Series–  Book 126
+    bo: ལེགས་བཤད་གླིང་རིགས་པའི་གཞུང་ལུགས།–  དེབ། ༡༢༦
+  author:
+    en: Khenpo Kunpal
+    bo: མཁན་པོ་ཀུན་དཔལ།
+  pusblisher:
+    en: Lekshey Ling Publications
+    bo: ཀརྨ་ལེགས་བཤད་གླིང།
+  sku: LEK-PHI-126
+  category:
+    en: Bodhicharyavatara
+    bo: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LEK-PHI-126.epub
+  description:
+    en: ''
+    bo: ''
