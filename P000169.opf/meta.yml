@@ -1,15 +1,17 @@
-ebook_metadata:
+id: P000169
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཚིག་འགྲེལ་འཇམ་དབྱངས་བླ་མའི་ཞལ་ལུང་བདུད་རྩིའི་ཐིག་པ་བཞུགས་སོ།།
     །།
   authors:
   - མཛད་པ་པོ། མཁན་པོ་ཀུན་དཔལ།
-  sku: LEK-PHI-126
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - sabche
+  id: LEK-PHI-126
 web_metadata:
   title:
     en: The Nectar of Manjushri’s Speech:A Commentary to the Bodhisatvacharyavatara
